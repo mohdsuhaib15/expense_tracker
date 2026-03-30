@@ -1,5 +1,3 @@
-print('Mohd Suhaib Khan")')
-print('25BAI11349")')
 import csv
 from datetime import date
 print("\nEXPENSE TRACKER\n")
